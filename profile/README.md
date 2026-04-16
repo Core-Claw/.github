@@ -94,7 +94,7 @@ func Run(ctx *coreclaw.Context) error {
 | [NodeScirptDemo](https://github.com/Core-Claw/NodeScirptDemo) | Node.js Worker template — build and deploy JS scrapers on CoreClaw |
 | [GoScirptDemo](https://github.com/Core-Claw/GoScirptDemo) | Go Worker template — build and deploy Go scrapers on CoreClaw |
 | [scraper-webui-docs](https://github.com/Core-Claw/scraper-webui-docs) | Official documentation portal (Starlight/Astro) |
-| [cafe-scraper-skill](https://github.com/Core-Claw/cafe-scraper-skill) | Scraper skill definitions and configurations |
+| [coreclaw-skill](https://github.com/Core-Claw/coreclaw-skill) | AI agent skill — run CoreClaw scrapers via REST API from Codex, Claude Code, etc. |
 
 ## Data Solutions by Industry
 
