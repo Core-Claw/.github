@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://coreclaw.com" target="_blank">
-        <img src="./images/banner.svg" alt="CoreClaw — Web Scraping Platform & Ready-Made Data Workers" width="800">
+        <img src="./images/banner.jpg" alt="CoreClaw — Web Scraping Platform & Ready-Made Data Workers" width="100%">
     </a>
 </p>
 
